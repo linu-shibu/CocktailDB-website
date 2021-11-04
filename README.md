@@ -1,11 +1,5 @@
-#### React Router Fix
+#### Deploy address
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
+https://cocktaildb-website.netlify.app/
 
 ```
